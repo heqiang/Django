@@ -86,7 +86,7 @@ pyecharts==0.5.9
 pyecharts-javascripthon==0.0.6
 pyecharts-jupyter-installer==0.0.3
 pygame==1.9.4
-Pygments==2.2.0
+Pygments==2.7.4
 PyMySQL==0.9.3
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
